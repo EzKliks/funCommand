@@ -1,2 +1,2 @@
-client_script "cl_spawn.lua"
-server_script "sv_spawn.lua"
+client_script "cl_fun.lua"
+server_script "sv_fun.lua"
